@@ -1,0 +1,19 @@
+div {
+  min-height: 100px;
+  min-width: 100px;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 10px;
+}
+
+#grandparent {
+  background-color: skyblue;
+}
+
+#parent {
+  background-color: yellowgreen;
+}
+
+#child {
+  background-color: slategray;
+}
